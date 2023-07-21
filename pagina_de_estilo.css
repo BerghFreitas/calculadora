@@ -18,7 +18,7 @@
 }
 .calculadora{
     position: absolute;
-    background-color:rgb(235, 21, 64);
+    background-color:rgb(235, 39, 4);
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
@@ -32,4 +32,10 @@
     font-size: 25px;
     cursor: pointer;
     border-radius: 15px;
+    background-color: rgb(219, 38, 243);
+    color: aliceblue ;
+}
+.botao:hover{
+    background-color: rgb(6, 136, 13);
+    color: black;
 }
